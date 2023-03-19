@@ -20,8 +20,12 @@ body{
 }
 .top-banner{
     background-image: url("img/top-banner.png");
-    height: 500px;
     background-repeat: no-repeat;
+}
+section{
+    
+    height: 500px;
+    margin-bottom: 150px;
 }
 
 .link-button {
@@ -31,3 +35,26 @@ body{
     color: white;
     font-weight: bold;
 }
+
+
+.half-width h2{
+    font-size: 40px;
+}
+.dream{
+    background-image: url("img/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position:right;
+}
+.Experience h2 {
+    font-size: 40px;
+}
+
+.single-ex{
+    box-shadow: 10px 10px 40px gray;
+}
+.Experience{
+    background-image: url("IMG/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position:  left;
+}
+
